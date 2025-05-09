@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @mohankumar
 - 👀 I’m interested in cybersecurity
 - 🌱 I’m currently learning SOC analyst
-- 💞️ I’m looking to collaborate on google
 - 📫 How to reach me mohantyping123@gmail.com
 
 <!---
